@@ -1,0 +1,39 @@
+#cube #left .green,
+#cube #left .white,
+#cube #left .red,
+#cube #left .yellow,
+#cube #left .orange,
+.yellow,
+#body #cube #left div#yellow {
+    background-color: blue !important;
+}
+
+
+#body #cube #top .green,
+#body #cube #top .white,
+#body #cube #top .orange,
+#body #cube #top .red,
+#body #cube #top #green,
+.green,
+#left .green,
+#body #cube #top #blue,
+.blue,
+#left .blue,
+#orange,
+.orange,
+html body#body div#cube.cube.cube div#top.face.top div#orange.orange {
+    background-color: yellow !important;
+}
+
+
+#cube #right .white,
+#cube #right .green,
+#cube #right #white,
+.white,
+#cube .white,
+body #right.face #white.white,
+#blue,
+.blue,
+#cube #right div.blue {
+    background-color: red !important;
+}
